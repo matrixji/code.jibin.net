@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://code.jibin.net/sitemap.xml
