@@ -2,19 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://code.jibin.net/tags/c&#43;&#43;/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://code.jibin.net/categories/c&#43;&#43;/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://code.jibin.net/tags/c&#43;&#43;11/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://code.jibin.net/post/modern-cpp/cpp11-move-semantics/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://code.jibin.net/categories/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://code.jibin.net/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://code.jibin.net/tags/modern-c&#43;&#43;/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://code.jibin.net/post/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://code.jibin.net/tags/</loc>
+    <lastmod>2020-05-04T22:43:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
